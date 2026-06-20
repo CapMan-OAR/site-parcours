@@ -19,13 +19,9 @@ export default function TarifsPage() {
     features: (() => {
       const f: string[] = [];
       let j = 0;
-      while (true) {
-        try {
-          f.push(t(`plans.${i}.features.${j}`));
-          j++;
-        } catch {
-          break;
-        }
+      while (t.has(`plans.${i}.features.${j}`)) {
+        f.push(t(`plans.${i}.features.${j}`));
+        j++;
       }
       return f;
     })(),
