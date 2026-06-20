@@ -1,0 +1,21 @@
+﻿Ma méthode (v1)
+Je conçois des produits numériques sur une architecture pensée pour durer : évolutive, extensible, et capable d’absorber la croissance du besoin. 
+J’investis en amont pour comprendre le métier, les usages et la trajectoire cible (process, contraintes terrain, priorités), afin de livrer rapidement des fonctionnalités utiles et adoptées.
+Je développe avec une logique de service : l’outil s’intègre au travail réel des utilisateurs, et simplifie leurs décisions et leurs actions au quotidien. 
+Les interfaces sont volontairement sobres et centrées sur l’usage ; le design artistique est défini avec le client ou confié à des experts dédiés lorsqu’il devient stratégique. 
+Le produit progresse par itérations : retours terrain, mesure de l’usage, et améliorations structurelles assumées, pour avancer vite sans sacrifier la qualité dans la durée.
+Ma méthode (v2) : la « Conception vivante » : livrer vite des logiciels intuitifs, conçus pour évoluer et durer
+Je conçois et développe des produits numériques orientés usage, bâtis sur une architecture évolutive pensée pour la maintenabilité et la croissance fonctionnelle.
+Mon approche combine cadrage métier, priorisation produit et exécution technique afin de réduire le time-to-market tout en sécurisant la trajectoire à moyen terme.
+J’interviens en logique de service : compréhension des workflows, intégration dans l’existant, adoption par les équipes et continuité opérationnelle.
+Les interfaces sont volontairement sobres et efficaces ; les enjeux d’identité visuelle et de design stratégique sont traités avec le client ou confiés à des spécialistes lorsque cela devient déterminant.
+Le produit progresse par cycles courts : retours terrain, pilotage par la valeur, et industrialisation progressive pour améliorer la qualité sans bloquer la livraison.
+
+Dans un contexte QUALIOPI : apporter une qualité perçue par les utilisateurs, garantir la traçabilité 
+Traçabilité, preuves, fluidité : un outil qui évolue avec votre pratique.
+
+Elevator speach général (perso à partir des 5 propositions)
+Nous concevons des logiciels ciblés pour répondre rapidement à des enjeux opérationnels, financiers ou commerciaux d’entreprises qui ont des processus métiers complexes ou mal outillés. Nous les rendons plus fiables, plus efficaces et dans un design facilement adoptés par les utilisateurs au quotidien. Notre différence : une expertise métiers et une approche centrée sur la valeur pour les utilisateurs finaux.
+
+Dans le contexte Bilan de compétence :
+Pitch spécifique

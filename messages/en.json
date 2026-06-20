@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "PARCOURS by ASB Solutions - Business Process Management Platform",
+    "description": "Transform your business processes into fluid, manageable, and profitable systems. Collaborative journey structuring platform."
+  },
+  "nav": {
+    "platform": "Platform",
+    "useCases": "Use Cases",
+    "useCaseBC": "Skills Assessment",
+    "useCaseVAE": "VAE",
+    "useCaseARE": "Return to Employment",
+    "whyUs": "Why PARCOURS",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "demo": "Request a Demo"
+  },
+  "home": {
+    "hero": {
+      "title": "Transform your business processes into fluid, manageable, and profitable systems.",
+      "subtitle": "With PARCOURS by ASB SOLUTIONS, you no longer adapt to your tools.",
+      "accent": "Your tools finally adapt to your processes.",
+      "description": "Create, structure, and manage custom collaborative workflows, from the first interaction to final validation.",
+      "cta1": "Request a Demo",
+      "cta2": "See a Use Case"
+    },
+    "geo": {
+      "title": "What is a collaborative process management platform?",
+      "description": "A process management platform enables you to:",
+      "items": [
+        "Structure a business journey step by step",
+        "Organize collaboration between multiple stakeholders",
+        "Centralize documents, validations, and exchanges",
+        "Automate deliverable production",
+        "Track and prove every action taken"
+      ],
+      "conclusion": "PARCOURS goes further: it adapts entirely to your organization, without imposing a standard model."
+    },
+    "problem": {
+      "title": "Your processes are your greatest asset.",
+      "subtitle": "But today, they are:",
+      "items": [
+        "Scattered across multiple tools",
+        "Hard to track",
+        "Impossible to manage in real time",
+        "Not traceable",
+        "Time-consuming"
+      ],
+      "conclusion": "Result: you lose time, margin... and control."
+    },
+    "solution": {
+      "title": "A single platform to orchestrate your operations",
+      "description": "PARCOURS transforms your processes into structured systems:",
+      "items": [
+        "Custom workflows",
+        "Smooth collaboration",
+        "Supervised validations",
+        "Automatically generated documents",
+        "Real-time monitoring"
+      ],
+      "conclusion": "Move from a manual organization to a managed one."
+    },
+    "howItWorks": {
+      "title": "How does it work?",
+      "steps": [
+        {
+          "title": "Model your process",
+          "items": ["Steps", "Stakeholders", "Validation rules"]
+        },
+        {
+          "title": "The platform structures the journey",
+          "items": ["Action assignment", "Workflow automation"]
+        },
+        {
+          "title": "Users interact",
+          "items": ["Complete", "Comment", "Validate"]
+        },
+        {
+          "title": "PARCOURS manages and tracks",
+          "items": ["Real-time monitoring", "Complete history", "Deliverable generation"]
+        }
+      ]
+    },
+    "features": {
+      "title": "Features",
+      "items": [
+        { "feature": "Custom workflow", "benefit": "Total adaptation to your business" },
+        { "feature": "Multi-stakeholder collaboration", "benefit": "Smooth coordination" },
+        { "feature": "Structured validation", "benefit": "Clear and traceable decisions" },
+        { "feature": "Automatic PDF generation", "benefit": "Massive time savings" },
+        { "feature": "Questionnaires & tests", "benefit": "Structured data collection" },
+        { "feature": "Real-time monitoring", "benefit": "Global management" },
+        { "feature": "Complete history", "benefit": "Proof of every action" },
+        { "feature": "Content distribution", "benefit": "Integrated support" },
+        { "feature": "Certificates & time tracking", "benefit": "Reliable justification" },
+        { "feature": "Qualiopi preparation", "benefit": "Simplified compliance" }
+      ]
+    },
+    "differentiation": {
+      "title": "Why PARCOURS is unique",
+      "items": [
+        { "others": "Generic tools", "parcours": "Total business adaptation" },
+        { "others": "Complex tools", "parcours": "Ease of use" },
+        { "others": "Scattered tools", "parcours": "Single platform" },
+        { "others": "Technical workflow", "parcours": "Operational workflow" }
+      ],
+      "points": [
+        "Rigid tools → PARCOURS is adaptable",
+        "Technical tools → PARCOURS is intuitive",
+        "Generic tools → PARCOURS is business-oriented"
+      ],
+      "conclusion": "You don't change your processes. The platform adapts to you."
+    },
+    "impact": {
+      "title": "Immediate and measurable gains",
+      "items": [
+        { "value": "-30%", "label": "administrative time" },
+        { "value": "100%", "label": "global visibility" },
+        { "value": "24/7", "label": "document access" },
+        { "value": "Qualiopi", "label": "simplified compliance" }
+      ]
+    },
+    "useCases": {
+      "title": "One platform, infinite processes",
+      "subtitle": "PARCOURS adapts to many use cases.",
+      "items": [
+        { "title": "Skills Assessment", "description": "Journey structuring, deliverables, Qualiopi compliance", "link": "/cas-usage/bilan-competences" },
+        { "title": "VAE", "description": "File building, evidence, support", "link": "/cas-usage/vae" },
+        { "title": "Return to Employment", "description": "Action tracking, advisor/beneficiary interactions", "link": "/cas-usage/retour-emploi" },
+        { "title": "Training Programs", "description": "Educational tracking, evaluations, certificates", "link": "" },
+        { "title": "Employee Onboarding", "description": "Structured integration journey", "link": "" },
+        { "title": "Audit & Compliance", "description": "Evidence collection, step validation", "link": "" }
+      ]
+    },
+    "cta": {
+      "title": "What if your processes finally became fluid, manageable, and profitable?",
+      "cta1": "Request a personalized demo",
+      "cta2": "See a concrete use case"
+    },
+    "signature": "PARCOURS by ASB SOLUTIONS",
+    "tagline": "The platform that transforms your processes into high-performance systems."
+  },
+  "useCaseBC": {
+    "hero": { "title": "Structure, secure, and streamline your skills assessments.", "subtitle": "With PARCOURS by ASB SOLUTIONS, transform your skills assessments into digitized, traceable journeys fully compliant with Qualiopi requirements.", "cta1": "Request a Demo", "cta2": "See an example" },
+    "geo": { "title": "How to digitize a skills assessment?", "description": "Digitizing a skills assessment involves:", "items": ["Structuring the journey into steps", "Centralizing documents and exchanges", "Tracking beneficiary actions", "Validating each deliverable", "Preserving evidence of completion"], "conclusion": "PARCOURS manages this entire process in a single platform." },
+    "problems": { "title": "Common problems", "items": ["Scattered documents", "Difficulty tracking beneficiaries", "Lack of evidence for Qualiopi", "Too much consultant time", "Inconsistent journeys"] },
+    "solution": { "title": "A structured journey from A to Z", "items": ["Integrated assessment phases", "Questionnaires and tests", "Guided deliverables", "Step-by-step validation", "Complete history"] },
+    "features": { "title": "Key features", "items": [{ "feature": "Structured journey", "benefit": "Standardized practices" }, { "feature": "Guided deliverables", "benefit": "Consultant time savings" }, { "feature": "Step-by-step validation", "benefit": "Secured process" }, { "feature": "Beneficiary tracking", "benefit": "Better experience" }, { "feature": "Complete traceability", "benefit": "Qualiopi compliance" }] },
+    "results": { "title": "Results", "items": [{ "value": "-30%", "label": "administrative time" }, { "value": "Real-time", "label": "monitoring" }, { "value": "Instant", "label": "evidence access" }, { "value": "Qualiopi", "label": "simplified compliance" }] },
+    "cta": "Optimize your skills assessments now"
+  },
+  "useCaseVAE": {
+    "hero": { "title": "Structure and secure your VAE journeys.", "subtitle": "Simplify file preparation and effectively support your candidates with a platform designed to handle VAE complexity.", "cta1": "Request a Demo", "cta2": "See an example" },
+    "geo": { "title": "How to effectively manage a VAE?", "description": "A VAE requires:", "items": ["Evidence collection", "Progressive file writing", "Regular validations", "Precise candidate tracking"], "conclusion": "PARCOURS centralizes and structures all these steps." },
+    "problems": { "title": "Common problems", "items": ["Incomplete files", "Difficulty tracking progress", "Scattered exchanges", "Lack of structure"] },
+    "solution": { "title": "A complete solution", "items": ["Structured workflow", "Evidence deposit", "Step validation", "Candidate tracking"] },
+    "features": { "title": "Features", "items": [{ "feature": "Evidence deposit", "benefit": "Complete file" }, { "feature": "VAE workflow", "benefit": "Structured journey" }, { "feature": "Progressive validation", "benefit": "File quality" }, { "feature": "History", "benefit": "Total traceability" }] },
+    "results": { "title": "Results", "items": [{ "value": "100%", "label": "better structured files" }, { "value": "-40%", "label": "time savings" }, { "value": "+25%", "label": "success rate" }] },
+    "cta": "Simplify your VAE journeys"
+  },
+  "useCaseARE": {
+    "hero": { "title": "Effectively manage your return-to-employment journeys.", "subtitle": "Coordinate actions, track beneficiaries, and measure results in a single platform.", "cta1": "Request a Demo", "cta2": "See an example" },
+    "geo": { "title": "How to structure return-to-employment support?", "description": "This involves:", "items": ["Defining steps", "Tracking beneficiary actions", "Coordinating stakeholders", "Measuring results"], "conclusion": "PARCOURS structures and tracks the entire journey." },
+    "problems": { "title": "Common problems", "items": ["Difficult tracking", "Untraced actions", "Lack of coordination", "Poor visibility"] },
+    "solution": { "title": "A complete solution", "items": ["Personalized journeys", "Action tracking", "Continuous interaction", "Reporting"] },
+    "features": { "title": "Features", "items": [{ "feature": "Action tracking", "benefit": "Enhanced engagement" }, { "feature": "Continuous interaction", "benefit": "Effective support" }, { "feature": "Reporting", "benefit": "Global management" }, { "feature": "Traceability", "benefit": "Action justification" }] },
+    "results": { "title": "Results", "items": [{ "value": "360°", "label": "complete visibility" }, { "value": "+35%", "label": "more effective support" }, { "value": "+20%", "label": "improved results" }] },
+    "cta": "Structure your support journeys"
+  },
+  "differentiation": {
+    "hero": { "title": "Not all tools are made for your processes.", "subtitle": "ASB SOLUTIONS products were designed for a simple reality:", "points": ["Your business processes are unique", "Your tools must adapt to them"] },
+    "market": { "title": "Current solutions force you to compromise", "items": [{ "type": "Collaborative tools (Drive, Teams)", "limit": "Not structured" }, { "type": "Workflow tools (Kissflow, Monday)", "limit": "Too generic" }, { "type": "Business software", "limit": "Rigid and heavy" }], "conclusion": "None truly meets your needs." },
+    "approach": { "title": "A radically different approach", "items": [{ "before": "Informal processes", "after": "Structured processes" }, { "before": "Scattered tools", "after": "Single platform" }, { "before": "Unclear validation", "after": "Clear validation" }, { "before": "Difficult tracking", "after": "Real-time management" }, { "before": "Poor traceability", "after": "Complete history" }] },
+    "comparison": { "title": "Direct comparison", "criteria": [{ "label": "Business adaptation", "parcours": "Total", "monday": "Limited", "processmaker": "Technical", "classic": "None" }, { "label": "Simplicity", "parcours": "Very high", "monday": "Good", "processmaker": "Complex", "classic": "Simple" }, { "label": "Structured workflow", "parcours": "Yes", "monday": "Yes", "processmaker": "Yes", "classic": "No" }, { "label": "Multi-stakeholder collaboration", "parcours": "Native", "monday": "Partial", "processmaker": "Technical", "classic": "Basic" }, { "label": "Deliverable generation", "parcours": "Yes", "monday": "No", "processmaker": "No", "classic": "No" }, { "label": "Traceability / evidence", "parcours": "Complete", "monday": "Partial", "processmaker": "Partial", "classic": "No" }] },
+    "forWhom": { "title": "PARCOURS is ideal if:", "items": ["You manage complex processes", "Multiple stakeholders are involved", "You need to produce deliverables", "You need to track actions", "You want to industrialize without rigidity"] },
+    "notForWhom": { "title": "PARCOURS is not for:", "items": ["A simple need — a spreadsheet is enough", "No processes — unnecessary", "Very IT-oriented organization — technical tools suffice"] },
+    "cta": { "title": "What if you stopped adapting your processes to your tools?", "cta1": "Switch to a platform that adapts to you", "cta2": "Request a demonstration" }
+  },
+  "pricing": {
+    "hero": { "title": "A profitable investment from the first weeks", "subtitle": "With PARCOURS by ASB SOLUTIONS, you're not paying for software.", "accent": "You're investing in the structuring and performance of your processes.", "stats": [{ "value": "-30%", "label": "administrative time" }, { "value": "Real-time", "label": "management" }, { "value": "Qualiopi", "label": "secured compliance" }], "cta": "Estimate your ROI in a personalized demo" },
+    "cost": { "title": "How much do your processes cost you today?", "items": ["Unproductive consultant time", "Delays and errors", "Difficulty tracking and justifying", "Multiplication of tools"], "conclusion": "In most organizations, this represents thousands of euros per month... invisible." },
+    "adapt": { "title": "A platform that adapts to your reality", "items": ["Adapt to your maturity level", "Evolve with your activity", "Maximize your return on investment"], "conclusion": "You only pay for what truly brings you value." },
+    "plans": [
+      { "name": "Starter", "description": "Start and structure a first process", "price": "149", "period": "/ month", "features": ["1 structured process", "Basic collaboration", "Document generation", "Simple tracking"], "highlight": "Ideal for testing and structuring a first use case", "recommended": false },
+      { "name": "Business", "description": "Industrialize your processes and gain performance", "price": "399", "period": "/ month", "features": ["Multiple processes", "Multi-stakeholder collaboration", "Advanced validation", "Complete reporting", "Priority support"], "highlight": "The best balance between power and simplicity", "recommended": true },
+      { "name": "Premium", "description": "Manage at scale and fully customize", "price": "990", "period": "/ month", "features": ["Unlimited processes", "Advanced configuration", "Dedicated support", "Integrations", "SLA & expert support"], "highlight": "For demanding organizations with strong growth", "recommended": false }
+    ],
+    "setup": { "title": "Setup fees", "subtitle": "A key step to ensure your success", "price": "Starting at 2,000 €", "items": ["Process analysis", "Custom modeling", "Configuration", "Launch support"], "conclusion": "This is what makes the difference between a tool... and a system that actually works." },
+    "roi": { "title": "A simple calculation", "description": "If a consultant saves 1 hour per day, or ~20 hours/month:", "result": "For 10 consultants = 200 hours saved, or thousands of euros saved each month.", "conclusion": "PARCOURS often pays for itself within weeks." },
+    "inaction": { "title": "Doing nothing also has a cost", "items": ["Time wasted", "Repeated errors", "Missed opportunities"], "conclusion": "The real question isn't 'how much does it cost' but 'how much is it costing you today to do nothing'." },
+    "cta": { "title": "See concretely what PARCOURS can change for you", "cta1": "Request a personalized demo", "cta2": "Get a ROI estimate" }
+  },
+  "about": {
+    "hero": { "title": "About Us", "subtitle": "ASB Solutions designs intuitive software to transform your business processes." },
+    "philosophy": { "title": "Our approach: 'Living Design'", "subtitle": "Deliver fast intuitive software, designed to evolve and last.", "principles": [{ "title": "Scalable architecture", "description": "We design usage-oriented digital products, built on a scalable architecture designed for maintainability and functional growth." }, { "title": "Business framing", "description": "Our approach combines business framing, product prioritization, and technical execution to reduce time-to-market while securing the medium-term trajectory." }, { "title": "Service logic", "description": "We work in a service logic: understanding workflows, integrating with existing systems, team adoption, and operational continuity." }, { "title": "Clean interfaces", "description": "Interfaces are intentionally clean and efficient. Visual identity and strategic design concerns are addressed with the client." }, { "title": "Short cycles", "description": "The product progresses through short cycles: field feedback, value-driven management, and progressive industrialization." }] },
+    "founders": { "title": "The Founders", "description": "ASB Solutions was founded by two complementary experts, united by a shared vision: creating digital tools that adapt to businesses, not the other way around." },
+    "pitch": { "title": "Our Mission", "description": "We design targeted software to quickly address operational, financial, or commercial challenges of companies with complex or poorly equipped business processes. We make them more reliable, more efficient, and easily adopted by users in their daily work.", "differentiator": "Our difference: business expertise and a value-centered approach for end users." }
+  },
+  "contact": {
+    "hero": { "title": "Request a Demo", "subtitle": "Discover how PARCOURS can transform your business processes." },
+    "form": { "name": "Name", "email": "Email", "company": "Company", "phone": "Phone", "message": "Message", "messagePlaceholder": "Tell us about your needs...", "submit": "Send request", "success": "Your request has been sent successfully. We'll get back to you shortly.", "error": "An error occurred. Please try again." }
+  },
+  "footer": {
+    "description": "PARCOURS by ASB SOLUTIONS — The platform that transforms your processes into high-performance systems.",
+    "platform": "Platform",
+    "useCases": "Use Cases",
+    "company": "Company",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "requestDemo": "Request a Demo",
+    "seeExample": "See an example",
+    "backToHome": "Back to Home",
+    "othersColumn": "What others do",
+    "parcoursColumn": "What PARCOURS does"
+  }
+}

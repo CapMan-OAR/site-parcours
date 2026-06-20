@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "title": "PARCOURS by ASB Solutions - Plateforme de gestion de parcours métier",
+    "description": "Transformez vos processus métier en systèmes fluides, pilotables et rentables. Plateforme de structuration de parcours collaboratifs."
+  },
+  "nav": {
+    "platform": "Plateforme",
+    "useCases": "Cas d'usage",
+    "useCaseBC": "Bilan de compétences",
+    "useCaseVAE": "VAE",
+    "useCaseARE": "Retour à l'emploi",
+    "whyUs": "Pourquoi PARCOURS",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "contact": "Contact",
+    "demo": "Demander une démo"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformez vos processus métier en systèmes fluides, pilotables et rentables.",
+      "subtitle": "Avec PARCOURS by ASB SOLUTIONS, vous ne vous adaptez plus à vos outils.",
+      "accent": "Vos outils s'adaptent enfin à vos processus.",
+      "description": "Créez, structurez et pilotez des workflows collaboratifs sur mesure, de la première interaction jusqu'à la validation finale.",
+      "cta1": "Demander une démonstration",
+      "cta2": "Voir un cas concret"
+    },
+    "geo": {
+      "title": "Qu'est-ce qu'une plateforme de gestion de processus collaboratifs ?",
+      "description": "Une plateforme de gestion de processus permet de :",
+      "items": [
+        "Structurer un parcours métier étape par étape",
+        "Organiser la collaboration entre plusieurs acteurs",
+        "Centraliser documents, validations et échanges",
+        "Automatiser la production de livrables",
+        "Suivre et prouver chaque action réalisée"
+      ],
+      "conclusion": "PARCOURS va plus loin : elle s'adapte entièrement à votre organisation, sans imposer de modèle standard."
+    },
+    "problem": {
+      "title": "Vos processus sont votre richesse.",
+      "subtitle": "Mais aujourd'hui, ils sont :",
+      "items": [
+        "Éclatés entre plusieurs outils",
+        "Difficiles à suivre",
+        "Impossibles à piloter en temps réel",
+        "Non traçables",
+        "Chronophages"
+      ],
+      "conclusion": "Résultat : vous perdez du temps, de la marge… et du contrôle."
+    },
+    "solution": {
+      "title": "Une plateforme unique pour orchestrer vos opérations",
+      "description": "PARCOURS transforme vos processus en systèmes structurés :",
+      "items": [
+        "Workflows sur mesure",
+        "Collaboration fluide",
+        "Validations encadrées",
+        "Documents générés automatiquement",
+        "Suivi en temps réel"
+      ],
+      "conclusion": "Vous passez d'une organisation artisanale à une organisation pilotée."
+    },
+    "howItWorks": {
+      "title": "Comment ça fonctionne ?",
+      "steps": [
+        {
+          "title": "Vous modélisez votre processus",
+          "items": ["Étapes", "Acteurs", "Règles de validation"]
+        },
+        {
+          "title": "La plateforme structure le parcours",
+          "items": ["Assignation des actions", "Automatisation des enchaînements"]
+        },
+        {
+          "title": "Les utilisateurs interagissent",
+          "items": ["Complètent", "Commentent", "Valident"]
+        },
+        {
+          "title": "PARCOURS pilote et trace",
+          "items": ["Suivi en temps réel", "Historique complet", "Génération des livrables"]
+        }
+      ]
+    },
+    "features": {
+      "title": "Fonctionnalités",
+      "items": [
+        { "feature": "Workflow sur mesure", "benefit": "Adaptation totale à votre métier" },
+        { "feature": "Collaboration multi-acteurs", "benefit": "Coordination fluide" },
+        { "feature": "Validation structurée", "benefit": "Décisions claires et traçables" },
+        { "feature": "Génération automatique de PDF", "benefit": "Gain de temps massif" },
+        { "feature": "Questionnaires & tests", "benefit": "Collecte de données structurée" },
+        { "feature": "Suivi en temps réel", "benefit": "Pilotage global" },
+        { "feature": "Historique complet", "benefit": "Preuve de chaque action" },
+        { "feature": "Diffusion de contenus", "benefit": "Accompagnement intégré" },
+        { "feature": "Attestation & temps passé", "benefit": "Justification fiable" },
+        { "feature": "Préparation Qualiopi", "benefit": "Conformité facilitée" }
+      ]
+    },
+    "differentiation": {
+      "title": "Pourquoi PARCOURS est unique",
+      "items": [
+        { "others": "Outils génériques", "parcours": "Adaptation métier totale" },
+        { "others": "Outils complexes", "parcours": "Simplicité d'usage" },
+        { "others": "Outils dispersés", "parcours": "Plateforme unique" },
+        { "others": "Workflow technique", "parcours": "Workflow opérationnel" }
+      ],
+      "points": [
+        "Outils rigides → PARCOURS est adaptable",
+        "Outils techniques → PARCOURS est intuitif",
+        "Outils généralistes → PARCOURS est métier"
+      ],
+      "conclusion": "Vous ne changez pas vos process. La plateforme s'adapte à vous."
+    },
+    "impact": {
+      "title": "Des gains immédiats et mesurables",
+      "items": [
+        { "value": "-30%", "label": "de temps administratif" },
+        { "value": "100%", "label": "de visibilité globale" },
+        { "value": "24/7", "label": "documents accessibles" },
+        { "value": "Qualiopi", "label": "conformité facilitée" }
+      ]
+    },
+    "useCases": {
+      "title": "Une plateforme, une infinité de processus",
+      "subtitle": "PARCOURS s'adapte à de nombreux cas d'usage.",
+      "items": [
+        { "title": "Bilan de compétences", "description": "Structuration du parcours, livrables, conformité Qualiopi", "link": "/cas-usage/bilan-competences" },
+        { "title": "VAE", "description": "Constitution des dossiers, preuves, accompagnement", "link": "/cas-usage/vae" },
+        { "title": "Retour à l'emploi", "description": "Suivi des actions, interactions conseiller/bénéficiaire", "link": "/cas-usage/retour-emploi" },
+        { "title": "Parcours de formation", "description": "Suivi pédagogique, évaluations, attestations", "link": "" },
+        { "title": "Onboarding collaborateurs", "description": "Parcours d'intégration structuré", "link": "" },
+        { "title": "Audit & conformité", "description": "Collecte de preuves, validation des étapes", "link": "" }
+      ]
+    },
+    "cta": {
+      "title": "Et si vos processus devenaient enfin fluides, pilotables et rentables ?",
+      "cta1": "Demander une démonstration personnalisée",
+      "cta2": "Voir un cas d'usage concret"
+    },
+    "signature": "PARCOURS by ASB SOLUTIONS",
+    "tagline": "La plateforme qui transforme vos processus en systèmes performants."
+  },
+  "useCaseBC": {
+    "hero": {
+      "title": "Structurez, sécurisez et fluidifiez vos bilans de compétences.",
+      "subtitle": "Avec PARCOURS by ASB SOLUTIONS, transformez vos bilans de compétences en parcours digitalisés, traçables et parfaitement conformes aux exigences Qualiopi.",
+      "cta1": "Demander une démo",
+      "cta2": "Voir un exemple de parcours"
+    },
+    "geo": {
+      "title": "Comment digitaliser un bilan de compétences ?",
+      "description": "Digitaliser un bilan de compétences consiste à :",
+      "items": [
+        "Structurer le parcours en étapes",
+        "Centraliser les documents et échanges",
+        "Suivre les actions du bénéficiaire",
+        "Valider chaque livrable",
+        "Conserver les preuves de réalisation"
+      ],
+      "conclusion": "PARCOURS permet de gérer l'ensemble de ce processus dans une seule plateforme."
+    },
+    "problems": {
+      "title": "Problèmes fréquents",
+      "items": [
+        "Documents dispersés",
+        "Difficulté à suivre les bénéficiaires",
+        "Manque de preuves pour Qualiopi",
+        "Temps consultant trop élevé",
+        "Parcours peu homogènes"
+      ]
+    },
+    "solution": {
+      "title": "Un parcours structuré de A à Z",
+      "items": [
+        "Phases du bilan intégrées",
+        "Questionnaires et tests",
+        "Livrables guidés",
+        "Validation étape par étape",
+        "Historique complet"
+      ]
+    },
+    "features": {
+      "title": "Fonctionnalités clés",
+      "items": [
+        { "feature": "Parcours structuré", "benefit": "Uniformisation des pratiques" },
+        { "feature": "Livrables guidés", "benefit": "Gain de temps consultant" },
+        { "feature": "Validation étape par étape", "benefit": "Sécurisation du process" },
+        { "feature": "Suivi bénéficiaire", "benefit": "Meilleure expérience" },
+        { "feature": "Traçabilité complète", "benefit": "Conformité Qualiopi" }
+      ]
+    },
+    "results": {
+      "title": "Résultats",
+      "items": [
+        { "value": "-30%", "label": "de temps administratif" },
+        { "value": "Temps réel", "label": "suivi en temps réel" },
+        { "value": "Instant", "label": "preuves accessibles" },
+        { "value": "Qualiopi", "label": "conformité facilitée" }
+      ]
+    },
+    "cta": "Optimisez vos bilans de compétences dès maintenant"
+  },
+  "useCaseVAE": {
+    "hero": {
+      "title": "Structurez et sécurisez vos parcours VAE.",
+      "subtitle": "Simplifiez la constitution des dossiers et accompagnez efficacement vos candidats grâce à une plateforme conçue pour gérer la complexité de la VAE.",
+      "cta1": "Demander une démo",
+      "cta2": "Voir un exemple"
+    },
+    "geo": {
+      "title": "Comment gérer efficacement une VAE ?",
+      "description": "Une VAE nécessite :",
+      "items": [
+        "La collecte de preuves",
+        "La rédaction progressive d'un dossier",
+        "Des validations régulières",
+        "Un suivi précis du candidat"
+      ],
+      "conclusion": "PARCOURS centralise et structure toutes ces étapes."
+    },
+    "problems": {
+      "title": "Problèmes fréquents",
+      "items": [
+        "Dossiers incomplets",
+        "Difficulté à suivre l'avancement",
+        "Échanges dispersés",
+        "Manque de structuration"
+      ]
+    },
+    "solution": {
+      "title": "Une solution complète",
+      "items": [
+        "Workflow structuré",
+        "Dépôt de preuves",
+        "Validation des étapes",
+        "Suivi du candidat"
+      ]
+    },
+    "features": {
+      "title": "Fonctionnalités",
+      "items": [
+        { "feature": "Dépôt de preuves", "benefit": "Dossier complet" },
+        { "feature": "Workflow VAE", "benefit": "Parcours structuré" },
+        { "feature": "Validation progressive", "benefit": "Qualité du dossier" },
+        { "feature": "Historique", "benefit": "Traçabilité totale" }
+      ]
+    },
+    "results": {
+      "title": "Résultats",
+      "items": [
+        { "value": "100%", "label": "dossiers mieux structurés" },
+        { "value": "-40%", "label": "gain de temps" },
+        { "value": "+25%", "label": "taux de réussite" }
+      ]
+    },
+    "cta": "Simplifiez vos parcours VAE"
+  },
+  "useCaseARE": {
+    "hero": {
+      "title": "Pilotez efficacement vos parcours de retour à l'emploi.",
+      "subtitle": "Coordonnez les actions, suivez les bénéficiaires et mesurez les résultats dans une seule plateforme.",
+      "cta1": "Demander une démo",
+      "cta2": "Voir un exemple"
+    },
+    "geo": {
+      "title": "Comment structurer un accompagnement au retour à l'emploi ?",
+      "description": "Cela implique :",
+      "items": [
+        "Définir des étapes",
+        "Suivre les actions du bénéficiaire",
+        "Coordonner les intervenants",
+        "Mesurer les résultats"
+      ],
+      "conclusion": "PARCOURS permet de structurer et suivre l'ensemble du parcours."
+    },
+    "problems": {
+      "title": "Problèmes fréquents",
+      "items": [
+        "Suivi difficile",
+        "Actions non tracées",
+        "Manque de coordination",
+        "Peu de visibilité"
+      ]
+    },
+    "solution": {
+      "title": "Une solution complète",
+      "items": [
+        "Parcours personnalisés",
+        "Suivi des actions",
+        "Interaction continue",
+        "Reporting"
+      ]
+    },
+    "features": {
+      "title": "Fonctionnalités",
+      "items": [
+        { "feature": "Suivi des actions", "benefit": "Engagement renforcé" },
+        { "feature": "Interaction continue", "benefit": "Accompagnement efficace" },
+        { "feature": "Reporting", "benefit": "Pilotage global" },
+        { "feature": "Traçabilité", "benefit": "Justification des actions" }
+      ]
+    },
+    "results": {
+      "title": "Résultats",
+      "items": [
+        { "value": "360°", "label": "visibilité complète" },
+        { "value": "+35%", "label": "accompagnement plus efficace" },
+        { "value": "+20%", "label": "amélioration des résultats" }
+      ]
+    },
+    "cta": "Structurez vos parcours d'accompagnement"
+  },
+  "differentiation": {
+    "hero": {
+      "title": "Tous les outils ne sont pas faits pour vos processus.",
+      "subtitle": "Les produits ASB SOLUTIONS ont été conçus pour une réalité simple :",
+      "points": [
+        "Vos processus métier sont uniques",
+        "Vos outils doivent s'y adapter"
+      ]
+    },
+    "market": {
+      "title": "Les solutions actuelles vous obligent à faire un compromis",
+      "items": [
+        { "type": "Outils collaboratifs (Drive, Teams)", "limit": "Pas structurés" },
+        { "type": "Outils workflow (Kissflow, Monday)", "limit": "Trop génériques" },
+        { "type": "Logiciels métier", "limit": "Rigides et lourds" }
+      ],
+      "conclusion": "Aucun ne répond vraiment à votre besoin."
+    },
+    "approach": {
+      "title": "Une approche radicalement différente",
+      "items": [
+        { "before": "Processus informels", "after": "Processus structurés" },
+        { "before": "Outils dispersés", "after": "Plateforme unique" },
+        { "before": "Validation floue", "after": "Validation claire" },
+        { "before": "Suivi difficile", "after": "Pilotage en temps réel" },
+        { "before": "Peu de traçabilité", "after": "Historique complet" }
+      ]
+    },
+    "comparison": {
+      "title": "Comparaison directe",
+      "criteria": [
+        { "label": "Adaptation métier", "parcours": "Totale", "monday": "Limitée", "processmaker": "Technique", "classic": "Aucune" },
+        { "label": "Simplicité", "parcours": "Très élevée", "monday": "Bonne", "processmaker": "Complexe", "classic": "Simple" },
+        { "label": "Workflow structuré", "parcours": "Oui", "monday": "Oui", "processmaker": "Oui", "classic": "Non" },
+        { "label": "Collaboration multi-acteurs", "parcours": "Native", "monday": "Partielle", "processmaker": "Technique", "classic": "Basique" },
+        { "label": "Génération de livrables", "parcours": "Oui", "monday": "Non", "processmaker": "Non", "classic": "Non" },
+        { "label": "Traçabilité / preuve", "parcours": "Complète", "monday": "Partielle", "processmaker": "Partielle", "classic": "Non" }
+      ]
+    },
+    "forWhom": {
+      "title": "PARCOURS est idéal si :",
+      "items": [
+        "Vous gérez des processus complexes",
+        "Plusieurs acteurs interviennent",
+        "Vous devez produire des livrables",
+        "Vous devez tracer des actions",
+        "Vous voulez industrialiser sans rigidifier"
+      ]
+    },
+    "notForWhom": {
+      "title": "PARCOURS n'est pas fait pour :",
+      "items": [
+        "Un besoin simple — un tableur suffit",
+        "Pas de processus — inutile",
+        "Organisation très IT — outils techniques suffisent"
+      ]
+    },
+    "cta": {
+      "title": "Et si vous arrêtiez d'adapter vos process à vos outils ?",
+      "cta1": "Passez à une plateforme qui s'adapte à vous",
+      "cta2": "Demander une démonstration"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Un investissement rentable dès les premières semaines",
+      "subtitle": "Avec PARCOURS by ASB SOLUTIONS, vous ne payez pas un logiciel.",
+      "accent": "Vous investissez dans la structuration et la performance de vos processus.",
+      "stats": [
+        { "value": "-30%", "label": "temps administratif" },
+        { "value": "Temps réel", "label": "pilotage" },
+        { "value": "Qualiopi", "label": "conformité sécurisée" }
+      ],
+      "cta": "Estimez votre ROI en démo personnalisée"
+    },
+    "cost": {
+      "title": "Combien vous coûtent vos processus aujourd'hui ?",
+      "items": [
+        "Temps consultant non productif",
+        "Retards et erreurs",
+        "Difficulté à suivre et à justifier",
+        "Multiplication des outils"
+      ],
+      "conclusion": "Dans la plupart des organisations, cela représente plusieurs milliers d'euros par mois… invisibles."
+    },
+    "adapt": {
+      "title": "Une plateforme qui s'adapte à votre réalité",
+      "items": [
+        "S'adapter à votre niveau de maturité",
+        "Évoluer avec votre activité",
+        "Maximiser votre retour sur investissement"
+      ],
+      "conclusion": "Vous ne payez que pour ce qui vous apporte réellement de la valeur."
+    },
+    "plans": [
+      {
+        "name": "Starter",
+        "description": "Démarrer et structurer un premier processus",
+        "price": "149",
+        "period": "/ mois",
+        "features": [
+          "1 processus structuré",
+          "Collaboration de base",
+          "Génération de documents",
+          "Suivi simple"
+        ],
+        "highlight": "Idéal pour tester et structurer un premier cas d'usage",
+        "recommended": false
+      },
+      {
+        "name": "Business",
+        "description": "Industrialiser vos processus et gagner en performance",
+        "price": "399",
+        "period": "/ mois",
+        "features": [
+          "Plusieurs processus",
+          "Collaboration multi-acteurs",
+          "Validation avancée",
+          "Reporting complet",
+          "Support prioritaire"
+        ],
+        "highlight": "Le meilleur équilibre entre puissance et simplicité",
+        "recommended": true
+      },
+      {
+        "name": "Premium",
+        "description": "Piloter à grande échelle et personnaliser entièrement",
+        "price": "990",
+        "period": "/ mois",
+        "features": [
+          "Processus illimités",
+          "Paramétrage avancé",
+          "Accompagnement dédié",
+          "Intégrations",
+          "SLA & support expert"
+        ],
+        "highlight": "Pour les organisations exigeantes et en forte croissance",
+        "recommended": false
+      }
+    ],
+    "setup": {
+      "title": "Frais de mise en place",
+      "subtitle": "Une étape clé pour garantir votre succès",
+      "price": "À partir de 2 000 €",
+      "items": [
+        "Analyse de vos processus",
+        "Modélisation sur mesure",
+        "Paramétrage",
+        "Accompagnement au démarrage"
+      ],
+      "conclusion": "C'est ce qui fait toute la différence entre un outil… et un système qui fonctionne réellement."
+    },
+    "roi": {
+      "title": "Un calcul simple",
+      "description": "Si un consultant gagne 1 heure par jour, soit ~20 heures / mois :",
+      "result": "Sur 10 consultants = 200 heures gagnées, soit plusieurs milliers d'euros économisés chaque mois.",
+      "conclusion": "PARCOURS est souvent rentabilisé en quelques semaines."
+    },
+    "inaction": {
+      "title": "Ne rien faire a aussi un coût",
+      "items": [
+        "Du temps perdu",
+        "Des erreurs répétées",
+        "Des opportunités manquées"
+      ],
+      "conclusion": "La vraie question n'est pas « combien ça coûte » mais « combien ça vous coûte aujourd'hui de ne rien faire »."
+    },
+    "cta": {
+      "title": "Voyez concrètement ce que PARCOURS peut changer pour vous",
+      "cta1": "Demander une démonstration personnalisée",
+      "cta2": "Obtenir une estimation de ROI"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Qui sommes-nous",
+      "subtitle": "ASB Solutions conçoit des logiciels intuitifs pour transformer vos processus métier."
+    },
+    "philosophy": {
+      "title": "Notre approche : la « Conception vivante »",
+      "subtitle": "Livrer vite des logiciels intuitifs, conçus pour évoluer et durer.",
+      "principles": [
+        {
+          "title": "Architecture évolutive",
+          "description": "Nous concevons des produits numériques orientés usage, bâtis sur une architecture évolutive pensée pour la maintenabilité et la croissance fonctionnelle."
+        },
+        {
+          "title": "Cadrage métier",
+          "description": "Notre approche combine cadrage métier, priorisation produit et exécution technique afin de réduire le time-to-market tout en sécurisant la trajectoire à moyen terme."
+        },
+        {
+          "title": "Logique de service",
+          "description": "Nous intervenons en logique de service : compréhension des workflows, intégration dans l'existant, adoption par les équipes et continuité opérationnelle."
+        },
+        {
+          "title": "Interfaces sobres",
+          "description": "Les interfaces sont volontairement sobres et efficaces. Les enjeux d'identité visuelle et de design stratégique sont traités avec le client."
+        },
+        {
+          "title": "Cycles courts",
+          "description": "Le produit progresse par cycles courts : retours terrain, pilotage par la valeur, et industrialisation progressive pour améliorer la qualité sans bloquer la livraison."
+        }
+      ]
+    },
+    "founders": {
+      "title": "Les fondateurs",
+      "description": "ASB Solutions a été fondée par deux experts complémentaires, unis par une même vision : créer des outils numériques qui s'adaptent aux métiers, et non l'inverse."
+    },
+    "pitch": {
+      "title": "Notre mission",
+      "description": "Nous concevons des logiciels ciblés pour répondre rapidement à des enjeux opérationnels, financiers ou commerciaux d'entreprises qui ont des processus métiers complexes ou mal outillés. Nous les rendons plus fiables, plus efficaces et dans un design facilement adopté par les utilisateurs au quotidien.",
+      "differentiator": "Notre différence : une expertise métier et une approche centrée sur la valeur pour les utilisateurs finaux."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Demander une démonstration",
+      "subtitle": "Découvrez comment PARCOURS peut transformer vos processus métier."
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "company": "Société",
+      "phone": "Téléphone",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez-nous vos besoins...",
+      "submit": "Envoyer la demande",
+      "success": "Votre demande a bien été envoyée. Nous vous recontacterons rapidement.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "description": "PARCOURS by ASB SOLUTIONS — La plateforme qui transforme vos processus en systèmes performants.",
+    "platform": "Plateforme",
+    "useCases": "Cas d'usage",
+    "company": "Entreprise",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "requestDemo": "Demander une démo",
+    "seeExample": "Voir un exemple",
+    "backToHome": "Retour à l'accueil",
+    "othersColumn": "Ce que font les autres",
+    "parcoursColumn": "Ce que fait PARCOURS"
+  }
+}
