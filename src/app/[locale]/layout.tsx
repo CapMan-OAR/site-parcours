@@ -21,8 +21,37 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "meta" });
 
   return {
-    title: t("title"),
+    title: {
+      default: t("title"),
+      template: `%s | PARCOURS by ASB Solutions`,
+    },
     description: t("description"),
+    keywords: [
+      "PARCOURS",
+      "ASB Solutions",
+      "gestion de processus",
+      "workflow collaboratif",
+      "bilan de compétences",
+      "Qualiopi",
+      "plateforme métier",
+    ],
+    authors: [{ name: "ASB Solutions" }],
+    openGraph: {
+      title: t("title"),
+      description: t("description"),
+      type: "website",
+      locale: locale === "fr" ? "fr_FR" : "en_US",
+      siteName: "PARCOURS by ASB Solutions",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+    },
+    robots: {
+      index: true,
+      follow: true,
+    },
   };
 }
 
