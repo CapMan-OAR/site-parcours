@@ -51,13 +51,13 @@ export function Hero({ ns, imageSrc = "/images/illustrations/hero-platform.png",
             </div>
           </div>
 
-          <div className="hidden lg:block">
+          <div className="flex items-center justify-center">
             <Image
               src={imageSrc}
               alt={imageAlt}
               width={600}
               height={450}
-              className="rounded-2xl"
+              className="rounded-2xl w-full max-w-md lg:max-w-none"
               priority
             />
           </div>

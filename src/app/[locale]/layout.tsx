@@ -12,6 +12,10 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
+const baseUrl =
+  process.env.NEXT_PUBLIC_BASE_URL || "https://parcours.asbsolutions.fr";
+const isPublic = process.env.SITE_PUBLIC === "true";
+
 export async function generateMetadata({
   params,
 }: {
@@ -36,10 +40,18 @@ export async function generateMetadata({
       "plateforme métier",
     ],
     authors: [{ name: "ASB Solutions" }],
+    alternates: {
+      canonical: `${baseUrl}/${locale}`,
+      languages: {
+        fr: `${baseUrl}/fr`,
+        en: `${baseUrl}/en`,
+      },
+    },
     openGraph: {
       title: t("title"),
       description: t("description"),
       type: "website",
+      url: `${baseUrl}/${locale}`,
       locale: locale === "fr" ? "fr_FR" : "en_US",
       siteName: "PARCOURS by ASB Solutions",
     },
@@ -49,8 +61,8 @@ export async function generateMetadata({
       description: t("description"),
     },
     robots: {
-      index: true,
-      follow: true,
+      index: isPublic,
+      follow: isPublic,
     },
   };
 }
@@ -70,9 +82,29 @@ export default async function LocaleLayout({
 
   const messages = await getMessages();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "PARCOURS",
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "Web",
+    description:
+      "Plateforme de gestion de parcours métier collaboratifs pour organismes de formation et d'accompagnement",
+    url: baseUrl,
+    author: {
+      "@type": "Organization",
+      name: "ASB Solutions",
+      url: baseUrl,
+    },
+  };
+
   return (
     <html lang={locale} className={inter.variable}>
       <body className="min-h-screen bg-background font-sans antialiased">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main>{children}</main>

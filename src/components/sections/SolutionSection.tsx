@@ -16,13 +16,13 @@ export function SolutionSection() {
     <section className="py-20">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid items-center gap-12 lg:grid-cols-2">
-          <div className="hidden lg:flex items-center justify-center order-first">
+          <div className="flex items-center justify-center order-last lg:order-first">
             <Image
               src="/images/illustrations/solution-unified.png"
               alt="Plateforme PARCOURS unifiée"
               width={500}
               height={375}
-              className="rounded-2xl"
+              className="rounded-2xl w-full max-w-sm lg:max-w-none"
             />
           </div>
 

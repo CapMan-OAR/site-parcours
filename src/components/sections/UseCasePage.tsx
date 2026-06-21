@@ -77,13 +77,13 @@ export function UseCasePage({ ns, imageSrc, imageAlt = "" }: UseCasePageProps) {
             </div>
           </div>
           {imageSrc && (
-            <div className="hidden lg:block">
+            <div className="flex items-center justify-center">
               <Image
                 src={imageSrc}
                 alt={imageAlt}
                 width={500}
                 height={375}
-                className="rounded-2xl"
+                className="rounded-2xl w-full max-w-sm lg:max-w-none"
               />
             </div>
           )}
@@ -147,7 +147,7 @@ export function UseCasePage({ ns, imageSrc, imageAlt = "" }: UseCasePageProps) {
           <h2 className="text-center text-2xl font-bold tracking-tight">
             {t("features.title")}
           </h2>
-          <div className="mt-8 overflow-hidden rounded-xl border">
+          <div className="mt-8 overflow-x-auto rounded-xl border">
             <table className="w-full">
               <thead>
                 <tr className="border-b bg-muted/50">

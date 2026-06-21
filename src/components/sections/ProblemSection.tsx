@@ -34,13 +34,13 @@ export function ProblemSection() {
             </p>
           </div>
 
-          <div className="hidden lg:flex items-center justify-center">
+          <div className="flex items-center justify-center">
             <Image
               src="/images/illustrations/problem-scattered.png"
               alt="Processus dispersés"
               width={500}
               height={375}
-              className="rounded-2xl"
+              className="rounded-2xl w-full max-w-sm lg:max-w-none"
             />
           </div>
         </div>

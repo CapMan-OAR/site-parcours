@@ -21,7 +21,7 @@ export function DifferentiationPreview() {
           {t("title")}
         </h2>
 
-        <div className="mt-12 overflow-hidden rounded-xl border">
+        <div className="mt-12 overflow-x-auto rounded-xl border">
           <table className="w-full">
             <thead>
               <tr className="border-b bg-muted/50">
